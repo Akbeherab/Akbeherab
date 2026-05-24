@@ -1,20 +1,14 @@
 <div align="center">
 
-```
-╭──────────────────────────────────────────────────────────╮
-│                                                          │
-│   A M I T   K U M A R   B E H E R A                      │
-│   Edge AI · Deep Learning · Secure IoT Systems           │
-│                                                          │
-╰──────────────────────────────────────────────────────────╯
-```
+![Banner](./banner.svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Computer+Science+%40+IIT+Patna;Electronics+%40+IIT+Madras;Edge+AI+%7C+Deep+Learning+%7C+Resource-Constrained+Inference;6+Papers+Published+%7C+2+Best+Paper+Awards;Samsung+Fellow+%7C+MeitY+Certified+Trainer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=0EA5E9&center=true&vCenter=true&width=620&lines=Computer+Science+%40+IIT+Patna+%7C+Electronics+%40+IIT+Madras;Edge+AI+%7C+Deep+Learning+%7C+Resource-Constrained+Inference;6+Papers+Published+%7C+2+Best+Paper+Awards+%F0%9F%8F%86;Samsung+Fellow+%7C+MeitY+Certified+Trainer;Cybersecurity+Hackathon+Winner+%7C+%E2%82%B92.5L+Prize)](https://git.io/typing-svg)
 
 <a href="mailto:amit_24a12res82@iitp.ac.in"><img src="https://img.shields.io/badge/Email-0ea5e9?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://orcid.org"><img src="https://img.shields.io/badge/ORCID-a6ce39?style=flat-square&logo=orcid&logoColor=white"/></a>
 <a href="https://scholar.google.com"><img src="https://img.shields.io/badge/Google_Scholar-4285f4?style=flat-square&logo=google-scholar&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=Akbeherab&color=0ea5e9&style=flat-square&label=Profile+Views"/>
 
 </div>
 
@@ -33,22 +27,11 @@ Remote Sensing / EO        ████████████░░░░░�
 
 ---
 
-## 🎓 Education
-
-| Degree | Institution | Score | Status |
-|--------|------------|-------|--------|
-| **BS Computer Science & Data Analytics** | IIT Patna | CGPA 9.43 | 2024 – Present |
-| **BS Electronics** | IIT Madras | CGPA 7.0 | 2024 – Present |
-| Senior Secondary (XII) | KV DRDO Hyderabad | 81% | 2023 |
-| Secondary (X) | KV NAD Visakhapatnam | 100% | 2021 |
-
----
-
 ## 📄 Publications
 
 > **6 papers accepted/published · 2 Best Paper Awards · 2 under review**
 
-### ✅ Accepted / Published
+### Accepted / Published
 
 | # | Title | Venue | Role |
 |---|-------|-------|------|
@@ -66,72 +49,7 @@ Remote Sensing / EO        ████████████░░░░░�
 
 ---
 
-## 🔬 Research Internships
 
-```
-🛰️  NESAC, Dept. of Space, GoI          Dec 2025 – Jan 2026
-    Self-supervised EO embeddings · 300K+ geo locations · Springer LNNS accepted
-
-🤖  NIT Patna, Dept. of CSE             Oct 2025 – Dec 2025
-    Multilingual humor LLM pipeline · MWAHAHA dataset · under Top-2% global scientist
-
-⚡  BIT Mesra (BIT-SIPAR 2025)          Jun 2025 – Jul 2025
-    Pebrine disease detection · Raspberry Pi + CV · HW-SW co-design
-
-🏭  STPINEXT Bhubaneswar (MeitY)        May 2025 – Jun 2025
-    RADAR proximity sensing · embedded automation · real-time IoT
-
-👮  Bihar Police Academy (NIELIT/MeitY) Jul 2025 – Sep 2025
-    Trained 1,223 Sub-Inspectors & Inspectors · 210 contact hours
-```
-
----
-
-## 🚀 Key Projects
-
-<details>
-<summary><b>⚡ Edge-IoT Energy Forecasting System</b> — R² = 0.9747 · 14.2ms inference · 0.043 J/pred</summary>
-
-- Dual-channel current sensing on Raspberry Pi 5 + LoRa SX1262 (433 MHz)
-- Evaluated FT-Transformer, TabPFN, TabNet for minute-level residential load forecasting
-- ONNX-quantized edge deployment with SHAP explainability
-- 41% reduction in cloud bandwidth via adaptive duty-cycling  
-`Raspberry Pi 5 · LoRa SX1262 · PyTorch · ONNX · SHAP`
-
-</details>
-
-<details>
-<summary><b>🦅 DINO-EFS: Entropy-Guided Edge Intelligence Framework</b> — 99.76% accuracy · ~20× compression</summary>
-
-- Self-supervised ViT (DINO/DINOv2) + entropy-guided attention + prototype classification
-- 60–70% feature dimensionality reduction with <1% accuracy drop
-- Real-time on Raspberry Pi 5: FP16 13.17ms, 75.9 FPS
-- Validated on PlantVillage, NEU Surface Defect, Plant Disease datasets  
-`PyTorch · DINO/DINOv2 · ONNX · TensorRT · Jetson Nano`
-
-</details>
-
-<details>
-<summary><b>🚦 Edge Traffic Violation Detection</b> — 87%+ accuracy · LoRa mesh architecture</summary>
-
-- YOLO-based real-time detection on Raspberry Pi 4 nodes
-- Signal jumping & helmet-violation detection at 3–4s/frame
-- Offline-capable distributed edge architecture with LoRa mesh  
-`YOLOv5/RT-DETR · OpenCV · Raspberry Pi 4 · Jetson Nano · LoRa`
-
-</details>
-
-<details>
-<summary><b>🛡️ AI-Powered IDS — Cybersecurity Hackathon Winner 🥇</b> — 98% detection · 1st/1000+ teams · ₹2.5L prize</summary>
-
-- Anomaly-based zero-day detection with real-time traffic blocking
-- <2% false positive rate deployed on Raspberry Pi edge node
-- **1st Place, Aignite 2025 — East India's Biggest Cybersecurity Hackathon**  
-`Random Forest · XGBoost · iptables · Flask · Raspberry Pi`
-
-</details>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -176,31 +94,6 @@ Remote Sensing / EO        ████████████░░░░░�
 
 </div>
 
----
-
-## 🏆 Achievements
-
-| Year | Achievement |
-|------|-------------|
-| 2025 | 🥇 **1st Place — Aignite 2025** · East India's Biggest Cybersecurity Hackathon · Top 1 of 1000+ · ₹2.5L Prize |
-| 2025 | 🥇 **1st Place** · Cybersecurity Hackathon, Amity University Patna |
-| 2025 | 🎓 **Samsung Fellow (Grade I)** · ISWDP, IISc Bengaluru · Top category from 2,800+ applicants |
-| 2024 | 📐 Qualified **JEE Main & Advanced** among 1.2M candidates |
-| 2024 | 🩺 Qualified **NEET** · Top 1% among 2.5M candidates |
-| 2024 | 🏅 **NCERT CEE AIR 137**, State Rank 59 (Odisha) |
-| 2020 | 🌾 **Inspire-MANAK Award (MoE, GoI)** · Innovation in agri-tech |
-| 2019 | 🔬 **2nd Place, National Level** · Jawaharlal Nehru National Science Exhibition |
-
----
-
-## 🏢 Entrepreneurship
-
-**Founder & CEO — Anu-Darshika AI Diagnostics** *(2025 – Present)*
-
-> Developing a low-cost AI-powered automated microscope for rapid slide screening in medical and agricultural labs.
-
-- 12-slide automated scanning system with deep learning pathogen detection
-- Supported by **AICTE YUKTI Innovation Challenge** & **NIELIT innovation funding**
 
 ---
 
@@ -213,9 +106,9 @@ Remote Sensing / EO        ████████████░░░░░�
 [![Email](https://img.shields.io/badge/amit__24a12res82%40iitp.ac.in-0ea5e9?style=flat-square&logo=gmail&logoColor=white)](mailto:amit_24a12res82@iitp.ac.in)
 [![Phone](https://img.shields.io/badge/%2B91--7981971154-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+917981971154)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Akbeherab&color=0ea5e9&style=flat-square&label=Profile+Views)](https://github.com/Akbeherab)
-
 </div>
+
+---
 
 <div align="center">
 <sub>IIT Patna · IIT Madras · Researching at the intersection of AI and constrained hardware</sub>

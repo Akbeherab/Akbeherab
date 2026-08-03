@@ -2,7 +2,7 @@
 
 ![Banner](./banner.svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=0EA5E9&center=true&vCenter=true&width=620&lines=Computer+Science+%40+IIT+Patna+%7C+Electronics+%40+IIT+Madras;Edge+AI+%7C+Deep+Learning+%7C+Resource-Constrained+Inference;6+Papers+Published+%7C+2+Best+Paper+Awards+%F0%9F%8F%86;Samsung+Fellow+%7C+MeitY+Certified+Trainer;Cybersecurity+Hackathon+Winner+%7C+%E2%82%B92.5L+Prize)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=0EA5E9&center=true&vCenter=true&width=620&lines=Computer+Science+%40+IIT+Patna+%7C+Electronics+%40+IIT+Madras;Edge+AI+%7C+Deep+Learning+%7C+Resource-Constrained+Inference;6+Papers+Published+%7C+3+Best+Paper+Awards+%F0%9F%8F%86;Samsung+Fellow+%7C+MeitY+Certified+Trainer;Cybersecurity+Hackathon+Winner+%7C+%E2%82%B92.5L+Prize)](https://git.io/typing-svg)
 
 <a href="mailto:amit_24a12res82@iitp.ac.in"><img src="https://img.shields.io/badge/Email-0ea5e9?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white"/></a>

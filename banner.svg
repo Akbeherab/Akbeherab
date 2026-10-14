@@ -29,10 +29,10 @@
   <line x1="200" y1="120" x2="480" y2="120" stroke="#4a9bca" stroke-width="0.8" opacity="0.6"/>
   <text x="340" y="140" text-anchor="middle" font-family="'Courier New', monospace" font-size="10.5" font-weight="400" fill="#1a5f8a" letter-spacing="1">Deep Learning  ·  Edge Inference  ·  Computer Vision  ·  Secure IoT</text>
   <rect x="148" y="155" width="120" height="22" rx="11" fill="#0ea5e9" opacity="0.18"/>
-  <text x="208" y="170" text-anchor="middle" font-family="'Courier New', monospace" font-size="9.5" fill="#0c4a6e" font-weight="600">6 PUBLICATIONS</text>
+  <text x="208" y="170" text-anchor="middle" font-family="'Courier New', monospace" font-size="9.5" fill="#0c4a6e" font-weight="600">8 PUBLICATIONS</text>
   <rect x="280" y="155" width="120" height="22" rx="11" fill="#0ea5e9" opacity="0.18"/>
-  <text x="340" y="170" text-anchor="middle" font-family="'Courier New', monospace" font-size="9.5" fill="#0c4a6e" font-weight="600">2 BEST PAPER AWARDS</text>
+  <text x="340" y="170" text-anchor="middle" font-family="'Courier New', monospace" font-size="9.5" fill="#0c4a6e" font-weight="600">4 BEST PAPER AWARDS</text>
   <rect x="412" y="155" width="120" height="22" rx="11" fill="#0ea5e9" opacity="0.18"/>
   <text x="472" y="170" text-anchor="middle" font-family="'Courier New', monospace" font-size="9.5" fill="#0c4a6e" font-weight="600">SAMSUNG FELLOW</text>
-  <text x="340" y="205" text-anchor="middle" font-family="'Courier New', monospace" font-size="8.5" fill="#1a5f8a" opacity="0.7" letter-spacing="1">CGPA 9.43  ·  5 RESEARCH INTERNSHIPS  ·  1,223 OFFICERS TRAINED</text>
+  <text x="340" y="205" text-anchor="middle" font-family="'Courier New', monospace" font-size="8.5" fill="#1a5f8a" opacity="0.7" letter-spacing="1">CGPA 9.53  ·  5 RESEARCH INTERNSHIPS  ·  1,223 OFFICERS TRAINED</text>
 </svg>
